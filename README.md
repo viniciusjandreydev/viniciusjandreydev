@@ -1,19 +1,33 @@
 <div align="center">
 
-# 👋 Olá, eu sou **Vinicius Jandrey**!
+```
+> whoami
+```
 
-💻 **Desenvolvedor | Web Developer | Entusiasta de Tecnologia**
+# ⚡ VINICIUS JANDREY ⚡
+### `desenvolvedor` · `web developer` · `entusiasta de tecnologia`
 
-Sou desenvolvedor entusiasta por tecnologia e estudante de Engenharia da Computação. Gosto de transformar ideias em projetos funcionais, modernos e intuitivos, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+<img src="ascii_face.png" width="380" alt="ASCII art do meu rosto"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo...;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo_)
 
 <p>
   <a href="https://www.instagram.com/vinicius7ds" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=000000" />
   </a>
-</p> 
----
+  <a href="https://github.com/viniciusjandreydev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" />
+  </a>
+</p>
 
-## 🚀 Sobre mim
+</div>
+
+```bash
+$ cat sobre_mim.txt
+```
 
 * 💻 Desenvolvimento de aplicações web
 * 🌐 Criação de sites e sistemas responsivos
@@ -22,94 +36,112 @@ Sou desenvolvedor entusiasta por tecnologia e estudante de Engenharia da Computa
 * 🔧 Gosto de transformar ideias em projetos reais
 * 📚 Sempre estudando e aprimorando meus conhecimentos
 
----
+<br>
 
-## 🛠️ Tecnologias
+```bash
+$ ls tecnologias/
+```
 
-### 💻 Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-</p>
-
-### 🗄️ Banco de Dados
+**💻 Desenvolvimento**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" />
 </p>
 
-### 🔧 Ferramentas
+**🗄️ Banco de Dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
----
+**🔧 Ferramentas**
 
-## 📌 Projetos em destaque
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
 
-### 🎫 Help+ | Em Desenvolvimento
+<br>
 
-Sistema de atendimento e gerenciamento de chamados, desenvolvido com foco em simplicidade, organização e facilidade de utilização.
+```bash
+$ ls projetos/ --destaque
+```
 
-**Tecnologias:** HTML • CSS • JavaScript • PHP • MySQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🎫 Help+** `[em desenvolvimento]`
 
-### 📄 Terra+
+Sistema de atendimento e gerenciamento de chamados, com foco em simplicidade, organização e facilidade de utilização.
 
-Projeto de landing page para administração de trabalho de campus.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-**Tecnologias:** HTML • CSS • JavaScript
+</td>
+<td width="50%" valign="top">
 
----
+**📄 Terra+**
 
-### 🌐 Portfolio
+Landing page para administração de trabalho de campus.
 
-Projeto desenvolvido para apresentar meus trabalhos, habilidades e informações profissionais.
+`HTML` `CSS` `JavaScript`
 
-**Tecnologias:** HTML • CSS • JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**🌐 Portfolio**
 
-### 🚗 Sistema de Reservas Automotivo
+Projeto para apresentar meus trabalhos, habilidades e informações profissionais.
 
-Sistema para gerenciamento de reservas e agendamentos, com integração a banco de dados.
+`HTML` `CSS` `JavaScript`
 
-**Tecnologias:** PHP • MySQL • HTML • CSS • JavaScript
+</td>
+<td width="50%" valign="top">
 
----
+**🚗 Sistema de Reservas Automotivo**
 
-## 📈 Atualmente estudando
+Gerenciamento de reservas e agendamentos, com integração a banco de dados.
 
-* 🔹 PHP
-* 🔹 JavaScript
-* 🔹 MySQL
-* 🔹 Desenvolvimento Full Stack
-* 🔹 UI/UX
-* 🔹 Arquitetura de sistemas
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Objetivo
+<br>
 
-Meu objetivo é continuar evoluindo como desenvolvedor, criando projetos cada vez mais completos e profissionais, além de construir um portfólio que demonstre minha evolução e minhas habilidades na área de tecnologia.
+```bash
+$ cat estudando_atualmente.log
+```
 
----
+`PHP`&nbsp; `JavaScript`&nbsp; `MySQL`&nbsp; `Full Stack`&nbsp; `UI/UX`&nbsp; `Arquitetura de Sistemas`
 
-## 📫 Entre em contato
+<br>
+
+```bash
+$ cat objetivo.md
+```
+
+> Continuar evoluindo como desenvolvedor, criando projetos cada vez mais completos e profissionais, além de construir um portfólio que demonstre minha evolução e minhas habilidades na área de tecnologia.
+
+<br>
+
+<div align="center">
+
+```bash
+$ echo "obrigado pela visita"
+```
 
 <p>
   <a href="https://github.com/viniciusjandreydev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000">
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000">
   </a>
 </p>
 
----
+<sub>"Transformando ideias em código."</sub>
 
-<p align="center">
-  <i>“Transformando ideias em código.”</i>
-</p>
+</div>
